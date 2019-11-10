@@ -1,2 +1,0 @@
-# sss
-Created with CodeSandbox
